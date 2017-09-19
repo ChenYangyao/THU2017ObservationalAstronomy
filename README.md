@@ -7,8 +7,15 @@
 
 联系方式:  
 
-    微信152718049273 
+    微信 15271804273 
 
-    邮箱 yangyao-17@mails.tsinghua.edu.cn
+    邮箱 yangyao-17@mails.tsinghua.edu.cn 
+   
+课程微信群: 
 
+    请联系助教加入  
+
+课程PPT和其他资料： 
+
+    请在信息门户[网络学堂](http://info.tsinghua.edu.cn/)内下载
 
