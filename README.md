@@ -39,12 +39,22 @@
 ### 遇到问题怎么办  
 - 无论是知识概念上的困难，或是技术上的疑惑，或是作业中的难题，都可与老师或助教交流。也可发在微信群里，大家一起讨论。  
 
-## 附录  
-### 宇宙微波背景辐射  
-[宇宙微波背景辐射](https://en.wikipedia.org/wiki/Cosmic_microwave_background)（CMB）是20世纪最重要的天文学发现之一，它可以让我们了解到宇宙极早期（自诞生约30万年，红移约1000）的丰富信息。通过对CMB的测量，不仅可以用来限制宇宙学模型，也是用来获得宇宙学参数的最佳方法。   [WMAP](https://map.gsfc.nasa.gov/)和[Planck](http://planck.cf.ac.uk/)是最重要的两个CMB测量工程，进入它们的网站，看看我们的宇宙由哪些组分构成。尝试回答下面的问题：  
+## 附录   
+### 00. 如何夜观天象   
+晴朗的夜晚，当你以45度角凝视天空，将会发现许多闪亮的星星。其中哪些是行星，哪些是恒星？它们都叫什么名字？试着使用手机星图软件[Stellarium](https://pan.baidu.com/s/1mhQ5c60)（转自[Stellarium吧](http://tieba.baidu.com/p/5109325762)），将手机对准天空，就可以看到这些星星的信息了！  
+- 试着找到火星、土星和木星。它们是否比其他星星更亮？火星真的是红色的吗？  
+- 星图上还会显示一些星系的名字，你能看到它们吗？  
+
+### 01. Scales of the Universe   
+#### 观察我们的宇宙  
+- 推荐一个小视频[4分钟，从地球旅行到宇宙边缘](https://www.bilibili.com/video/av4433339/?from=search&seid=13726920308564500485)(感谢王凯童鞋的分享)。  
+- [一个星系团的形成演化历史](http://www.illustris-project.org/movies/illustris_movie_rot_sub_frame.mp4)(来自Illustris模拟)，[大尺度的暗物质结构](http://www.illustris-project.org/movies/illustris_movie_dmdens_z0_slicing.mp4)。更多图片、视频可以在[Illustris主页](http://www.illustris-project.org/media/)上寻找(感谢王凯童鞋的分享)。  
+#### 宇宙微波背景辐射  
+[宇宙微波背景辐射](https://en.wikipedia.org/wiki/Cosmic_microwave_background)（CMB）是20世纪最重要的天文学发现之一，它可以让我们了解到宇宙极早期（自诞生约30万年，红移约1000）的丰富信息。对CMB的测量，不仅可以用来限制宇宙学模型，也是用来获得宇宙学参数的最佳方法。   [WMAP](https://map.gsfc.nasa.gov/)和[Planck](http://planck.cf.ac.uk/)是最重要的两个CMB测量工程，进入它们的网站，看看我们的宇宙由哪些组分构成。尝试回答下面的问题：  
 - 组成我们人体的重子物质、看不见的暗物质、神秘的暗能量，它们在宇宙中各占据着多大的分量？
 - 谁发现了CMB？是机缘巧合还是早有预见？
 - 我们观测到的CMB，是来自于宇宙同一个时期产生的光子，还是来自于不同时期产生的光子？
+- 相比于观测星光，为什么观测CMB能够获得宇宙更早期的信息？
 - 为什么CMB的波长远比可见光波长要长？  
 - 为什么[CMB在天空的分布](https://map.gsfc.nasa.gov/media/121238/index.html)不是均匀的？
 
