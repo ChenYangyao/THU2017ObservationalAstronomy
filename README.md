@@ -16,7 +16,7 @@
 - 课程PPT讲义：请在信息门户[网络学堂](http://info.tsinghua.edu.cn/)内下载。每次课前会将PPT上传，请同学们做好预习。  
 - 教材：  
 [The Essential Cosmic Perspectives](https://www.amazon.com/The-Essential-Cosmic-Perspective-Edition/dp/0321928083), Bennett et al.  
-[Discoverting the Universe](https://www.amazon.com/Discovering-Universe-Neil-F-Comins/dp/1464140863/ref=sr_1_1?s=books&ie=UTF8&qid=1505828242&sr=1-1&keywords=discovering+the+universe), Comins et al.  
+[Discovering the Universe](https://www.amazon.com/Discovering-Universe-Neil-F-Comins/dp/1464140863/ref=sr_1_1?s=books&ie=UTF8&qid=1505828242&sr=1-1&keywords=discovering+the+universe), Comins et al.  
 获取方式：土豪同学请自行购买，非土豪同学请.....（你懂的）。  
 
 - 成绩评估：  
@@ -37,5 +37,14 @@
 - 最重要的：好好学习基础课程，尤其是应该掌握一门编程语言，推荐[Python](https://www.python.org/)，自学可参考[一个简易的入门指南](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)。  
 
 ### 遇到问题怎么办  
-- 无论是知识概念上的困难，或是技术上的疑惑，或是作业中的难题，都可与老师或助教交流。也可发在微信群里，大家一起讨论。
+- 无论是知识概念上的困难，或是技术上的疑惑，或是作业中的难题，都可与老师或助教交流。也可发在微信群里，大家一起讨论。  
+
+## 附录  
+### 宇宙微波背景辐射  
+[宇宙微波背景辐射](https://en.wikipedia.org/wiki/Cosmic_microwave_background)（CMB）是20世纪最重要的天文学发现之一，它可以让我们了解到宇宙极早期（自诞生约30万年，红移约1000）的丰富信息。通过对CMB的测量，不仅可以用来限制宇宙学模型，也是用来获得宇宙学参数的最佳方法。   [WMAP](https://map.gsfc.nasa.gov/)和[Planck](http://planck.cf.ac.uk/)是最重要的两个CMB测量工程，进入它们的网站，看看我们的宇宙由哪些组分构成。尝试回答下面的问题：  
+- 组成我们人体的重子物质、看不见的暗物质、神秘的暗能量，它们在宇宙中各占据着多大的分量？
+- 谁发现了CMB？是机缘巧合还是早有预见？
+- 我们观测到的CMB，是来自于宇宙同一个时期产生的光子，还是来自于不同时期产生的光子？
+- 为什么CMB的波长远比可见光波长要长？  
+- 为什么[CMB在天空的分布](https://map.gsfc.nasa.gov/media/121238/index.html)不是均匀的？
 
