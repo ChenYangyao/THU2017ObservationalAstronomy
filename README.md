@@ -25,6 +25,11 @@
 课程Project（文字内容20%，展示与交流10%，Project内容请等待老师通知）；  
 期末考试（30%，开卷）。  
 
+## 课程作业  
+### 第一次作业   
+- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。
+
+
 ## 来自助教的福利   
 ###  如何找到漂亮的星空图片  
 - 网站cosmotography上总有你喜欢的图片，比如这个三叶草[M20](http://www.cosmotography.com/images/small_ngc6514.html)，传说可以在考试之前膜拜以求平安。  
