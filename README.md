@@ -10,7 +10,8 @@
 微信 15271804273  
 邮箱 yangyao-17@mails.tsinghua.edu.cn  
 坐标： 蒙民伟科技大楼南楼（S612，学生办公室）  
-答疑/交流时间：每周一下午，可以来找我；其他时间请提前告知。
+答疑/交流时间：每周一下午（S612，陈洋遥）；每周六下午（S612，王凯）；其他时间请提前告知。  
+注：10月9日（周一）助教有事外出，这周答疑/交流时间改在10月10日（周二）下午。
 
 - 课程微信群: 请联系助教加入。  
 - 课程PPT讲义：请在信息门户[网络学堂](http://info.tsinghua.edu.cn/)内下载。每次课前会将PPT上传，请同学们做好预习。  
@@ -27,7 +28,9 @@
 
 ## 课程作业  
 ### 第一次作业   
-- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。
+- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+勘误：第9题，请将求经度（longitude）改成求纬度（latitude）。   
+上交时间：10月10日上课后截止，迟交不收。
 
 
 ## 来自助教的福利   
@@ -61,5 +64,15 @@
 - 我们观测到的CMB，是来自于宇宙同一个时期产生的光子，还是来自于不同时期产生的光子？
 - 相比于观测星光，为什么观测CMB能够获得宇宙更早期的信息？
 - 为什么CMB的波长远比可见光波长要长？  
-- 为什么[CMB在天空的分布](https://map.gsfc.nasa.gov/media/121238/index.html)不是均匀的？
+- 为什么[CMB在天空的分布](https://map.gsfc.nasa.gov/media/121238/index.html)不是均匀的？ 
+
+
+#### 一些科普小视频  
+- 斗转星移系列，例如[春天伊始](http://www.acfun.cn/v/ac3332225_12)和[迟到的春分点](http://www.acfun.cn/v/ac3332225_13)。 
+- BBC Universe, such as '[what ia dark matter?](http://www.bbc.co.uk/science/space/universe/questions_and_ideas/dark_matter/)'.
+
+#### 2017诺贝尔物理学奖-引力波
+- "for decisive contributions to the LIGO detector and the observation of [gravitational waves](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png)"  
+![引力波](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/fig_fy_en_17_twoblackholes.pdf) 
+- [引力波是什么？发现后有什么价值？](https://www.zhihu.com/question/40299051?sort=created)
 
