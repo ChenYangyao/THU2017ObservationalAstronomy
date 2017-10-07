@@ -73,6 +73,6 @@
 
 #### 2017诺贝尔物理学奖-引力波
 - "for decisive contributions to the LIGO detector and the observation of [gravitational waves](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png)"  
-![引力波](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/fig_fy_en_17_twoblackholes.pdf) 
+![引力波](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png) 
 - [引力波是什么？发现后有什么价值？](https://www.zhihu.com/question/40299051?sort=created)
 
