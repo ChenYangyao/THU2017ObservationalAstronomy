@@ -30,7 +30,11 @@
 ### 第一次作业   
 - 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 勘误：第9题，请将求经度（longitude）改成求纬度（latitude）。   
-上交时间：10月10日上课后截止，迟交不收。
+上交时间：10月10日上课后截止，迟交不收。 
+
+### 第二次作业
+- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm2.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+上交时间：10月24日上课后截止，迟交不收。 
 
 
 ## 来自助教的福利   
