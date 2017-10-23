@@ -30,11 +30,23 @@
 ### 第一次作业   
 - 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 勘误：第9题，请将求经度（longitude）改成求纬度（latitude）。   
-上交时间：10月10日上课后截止，迟交不收。 
+上交时间：10月10日上课后截止，迟交不收.  
+- 第一次作业成绩：  
+
+<img src="https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1_grade.png" width = "300" height = "300" alt="grade" align=center />  
+
+<img src="https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1_qid.png" width = "500" height = "200" alt="qid" align=center />
+ 
+
 
 ### 第二次作业
 - 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm2.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 上交时间：10月24日上课后截止，迟交不收。 
+
+### 第三次作业
+- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm3.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+上交时间：11月7日上课后截止，迟交不收。 
+
 
 
 ## 来自助教的福利   
@@ -57,7 +69,7 @@
 - 试着找到火星、土星和木星。它们是否比其他星星更亮？火星真的是红色的吗？  
 - 星图上还会显示一些星系的名字，你能看到它们吗？  
 
-### 01. Scales of the Universe   
+### 01. The Universe   
 #### 观察我们的宇宙  
 - 推荐一个小视频[4分钟，从地球旅行到宇宙边缘](https://www.bilibili.com/video/av4433339/?from=search&seid=13726920308564500485)(感谢王凯童鞋的分享)。  
 - [一个星系团的形成演化历史](http://www.illustris-project.org/movies/illustris_movie_rot_sub_frame.mp4)(来自Illustris模拟)，[大尺度的暗物质结构](http://www.illustris-project.org/movies/illustris_movie_dmdens_z0_slicing.mp4)。更多图片、视频可以在[Illustris主页](http://www.illustris-project.org/media/)上寻找(感谢王凯童鞋的分享)。  
@@ -75,8 +87,24 @@
 - 斗转星移系列，例如[春天伊始](http://www.acfun.cn/v/ac3332225_12)和[迟到的春分点](http://www.acfun.cn/v/ac3332225_13)。 
 - BBC Universe, such as '[what ia dark matter?](http://www.bbc.co.uk/science/space/universe/questions_and_ideas/dark_matter/)'.
 
+### 02. 搞个大新闻
+
 #### 2017诺贝尔物理学奖-引力波
 - "for decisive contributions to the LIGO detector and the observation of [gravitational waves](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png)"  
 ![引力波](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png) 
 - [引力波是什么？发现后有什么价值？](https://www.zhihu.com/question/40299051?sort=created)
+
+#### 双中子星合并引力波源的首次探测  
+
+- [GW170817](http://www.ligo.org/detections/GW170817.php) - The first observation of gravitational-waves from a binary neutron star.  
+
+- [如何理解 LIGO 探测到的来自双中子星合并的引力波事件 GW170817？](https://www.zhihu.com/question/66618915/answer/245442603) 
+
+#### 来自FAST的好消息  
+
+- [FAST首批成果新闻发布会
+](http://www.bao.ac.cn/xwzx/zyxw/201710/t20171010_4871382.html)
+
+- [FAST 首次发现脉冲星，对 FAST 和中国天文学界有什么意义？](https://www.zhihu.com/question/66430136)
+
 
