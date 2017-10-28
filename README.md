@@ -41,11 +41,18 @@
 
 ### 第二次作业
 - 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm2.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
-上交时间：10月24日上课后截止，迟交不收。 
+上交时间：10月24日上课后截止，迟交不收  
+ 
+
 
 ### 第三次作业
 - 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm3.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
-上交时间：11月7日上课后截止，迟交不收。 
+上交时间：11月7日上课后截止，迟交不收。   
+- 勘误：  
+A6：恒星的名称改为Struve 2398A。  
+B4(2) Proxima Centauri离地球的距离d已知为4.25光年。  
+B5题干最后一句改为：... and we can calculate the star's mass M, from its spectral type, where M = 1.1 solar mass.  
+
 
 
 
