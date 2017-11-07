@@ -63,10 +63,10 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 ## 来自助教的福利   
 ###  如何找到漂亮的星空图片  
 
-<center class="half">
+<figure class="half">
     <img src="./pic/small_ngc6514.jpg" width="300"/>
     <img src="./pic/eeg.jpg" width="300"/>
-</center>
+</figure>
 
 
 - 网站cosmotography上总有你喜欢的图片，比如这个三叶草[M20](http://www.cosmotography.com/images/small_ngc6514.html)，传说可以在考试之前膜拜以求平安。  
