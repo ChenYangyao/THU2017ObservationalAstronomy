@@ -28,30 +28,31 @@
 
 ## 课程作业  
 ### 第一次作业   
-- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+- 请未领到作业的同学自行[下载](./hm/hm1.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 勘误：第9题，请将求经度（longitude）改成求纬度（latitude）。   
 上交时间：10月10日上课后截止，迟交不收.  
-- 第一次作业成绩：  
 
-<img src="https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1_grade.png" width = "300" height = "300" alt="grade" align=center />  
-
-<img src="https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm1_qid.png" width = "500" height = "200" alt="qid" align=center />
  
-
-
 ### 第二次作业
-- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm2.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+- 请未领到作业的同学自行[下载](./hm/hm2.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 上交时间：10月24日上课后截止，迟交不收  
  
 
-
-### 第三次作业
-- 请未领到作业的同学自行[下载](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/hm3.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+### 第三次作业  
+- 请未领到作业的同学自行[下载](./hm/hm3.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 上交时间：11月7日上课后截止，迟交不收。   
 - 勘误：  
-A6：恒星的名称改为Struve 2398A。  
+A5: 小题序号有重复  
+A6：恒星的名称改为Struve 2398A.  
 B4(2) Proxima Centauri离地球的距离d已知为4.25光年。  
-B5题干最后一句改为：... and we can calculate the star's mass M, from its spectral type, where M = 1.1 solar mass.  
+B5 题干的速度 V = 86 km/s 改为 V = 86 m/s.  
+B5题干最后一句改为：... and we can calculate the star's mass M, from its spectral type, where M = 1.1 solar mass.   
+
+
+### 第四次作业  
+- 请未领到作业的同学自行[下载](./hm/hm4.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+上交时间：11月21日上课后截止，迟交不收。  
+提示：有不会做的题目，请仔细阅读PPT或者教材。
 
 
 
@@ -98,7 +99,7 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 
 #### 2017诺贝尔物理学奖-引力波
 - "for decisive contributions to the LIGO detector and the observation of [gravitational waves](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png)"  
-![引力波](https://github.com/ChenYangyao/THU2017ObservationalAstronomy/blob/master/GW.png) 
+![引力波](./pic/GW.png) 
 - [引力波是什么？发现后有什么价值？](https://www.zhihu.com/question/40299051?sort=created)
 
 #### 双中子星合并引力波源的首次探测  
@@ -113,5 +114,6 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 ](http://www.bao.ac.cn/xwzx/zyxw/201710/t20171010_4871382.html)
 
 - [FAST 首次发现脉冲星，对 FAST 和中国天文学界有什么意义？](https://www.zhihu.com/question/66430136)
+
 
 
