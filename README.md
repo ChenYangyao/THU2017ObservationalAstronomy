@@ -48,8 +48,7 @@ A5: 小题序号有重复
 A6：恒星的名称改为Struve 2398A.  
 B4(2) Proxima Centauri离地球的距离d已知为4.25光年。  
 B5 题干的速度 V = 86 km/s 改为 V = 86 m/s.  
-B5题干最后一句改为：... and we can calculate the star's mass M, from its spectral type, where M = 1.1 solar mass.   
-
+B5题干最后一句改为：... and we can calculate the star's mass M, from its spectral type, where M = 1.1 solar mass. 
 
 ### 第四次作业  
 - 请未领到作业的同学自行[下载](./hm/hm4.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
@@ -57,10 +56,19 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 提示：有不会做的题目，请仔细阅读PPT或者教材。
 
 
+### 课程论文  
 
+- 课程论文要求见[《观测宇宙学-从太阳系走向宇宙深处课程论文要求》](./hm/thesis_requir.pdf)。
 
 ## 来自助教的福利   
 ###  如何找到漂亮的星空图片  
+
+<center class="half">
+    <img src="./pic/small_ngc6514.jpg" width="300"/>
+    <img src="./pic/eeg.jpg" width="300"/>
+</center>
+
+
 - 网站cosmotography上总有你喜欢的图片，比如这个三叶草[M20](http://www.cosmotography.com/images/small_ngc6514.html)，传说可以在考试之前膜拜以求平安。  
 - NASA的网页。例如这个神奇的[创世之柱](https://www.nasa.gov/multimedia/imagegallery/image_feature_252.html)。  
 
@@ -71,7 +79,9 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 - 最重要的：好好学习基础课程，尤其是应该掌握一门编程语言，推荐[Python](https://www.python.org/)，自学可参考[一个简易的入门指南](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)。  
 
 ### 遇到问题怎么办  
-- 无论是知识概念上的困难，或是技术上的疑惑，或是作业中的难题，都可与老师或助教交流。也可发在微信群里，大家一起讨论。  
+- 无论是知识概念上的困难，或是技术上的疑惑，或是作业中的难题，都可与老师或助教交流。也可发在微信群里，大家一起讨论。 
+- 认真阅读课件和教材。
+- 多查找外文文献。
 
 ## 附录   
 ### 00. 如何夜观天象   
