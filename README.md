@@ -64,8 +64,8 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 ###  如何找到漂亮的星空图片  
 
 <figure class="half">
-    <img src="./pic/small_ngc6514.jpg" width="300"/>
-    <img src="./pic/eeg.jpg" width="300"/>
+    <img src="./pic/small_ngc6514.jpg" width="250"/>
+    <img src="./pic/eeg.jpg" width="250"/>
 </figure>
 
 
