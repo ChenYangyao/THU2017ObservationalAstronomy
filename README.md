@@ -53,8 +53,11 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 ### 第四次作业  
 - 请未领到作业的同学自行[下载](./hm/hm4.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
 上交时间：11月21日上课后截止，迟交不收。  
-提示：有不会做的题目，请仔细阅读PPT或者教材。
+提示：有不会做的题目，请仔细阅读PPT或者教材。  
 
+### 第五次作业  
+- 请未领到作业的同学自行[下载](./hm/hm5.pdf)，并使用A4纸打印出来；答案请用A4纸书写，与题目一起装订好了交上来。  
+上交时间：12月9日报告课后截止。未能参加报告的同学可以交至天体中心助教处，或发送一份电子版(照片或pdf均可)给助教。
 
 ### 课程论文  
 
@@ -64,11 +67,9 @@ B5题干最后一句改为：... and we can calculate the star's mass M, from it
 ###  如何找到漂亮的星空图片  
 
 <table><tr>
-<td><img src=./pic/eeg.jpg width=300 border=0></td>
-<td><img src=./pic/small_ngc6514.jpg width=300 border=0></td>
+<td><img src=./pic/eeg.jpg width=250 border=0></td>
+<td><img src=./pic/small_ngc6514.jpg width=250 border=0></td>
 </tr></table>
-
-
 
 
 - 网站cosmotography上总有你喜欢的图片，比如这个三叶草[M20](http://www.cosmotography.com/images/small_ngc6514.html)，传说可以在考试之前膜拜以求平安。  
